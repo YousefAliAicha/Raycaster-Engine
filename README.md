@@ -48,8 +48,8 @@ raycaster/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/raycaster.git
-cd raycaster
+git clone https://github.com/YousefAliAicha/Raycaster-Engine.git
+cd Raycaster-Engine
 ```
 
 ### 2. Install dependencies
