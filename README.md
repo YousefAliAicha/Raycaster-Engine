@@ -1,4 +1,4 @@
-# 🎮 Python Raycaster
+# Python Raycaster
 
 A Wolfenstein-style 3D raycaster built entirely in Python using NumPy and tkinter — no game engine, no OpenGL. Rays are cast per screen column using a vectorised DDA algorithm, with textured walls, floor/ceiling projection, distance fog, sprite rendering, and a first-person weapon bob.
 
