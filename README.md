@@ -1,9 +1,11 @@
 # Raycaster — A Wolfenstein-Style Engine Built From Scratch
 
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![NumPy](https://img.shields.io/badge/numpy-2.x-orange)
-![Tests](https://img.shields.io/badge/tests-32%20passing-brightgreen)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![2.5D Renderer](https://img.shields.io/badge/2.5D-Renderer-lightgrey?style=flat)
+![Raycaster](https://img.shields.io/badge/Raycaster-Engine-orange?style=flat)
+![Doom](https://img.shields.io/badge/Inspired%20by-Doom-8B0000?style=flat)
 
 ![Gameplay demo](assets/demo.gif)
 
