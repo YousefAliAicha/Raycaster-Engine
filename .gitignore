@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# pytest
+.pytest_cache/
+test_output.txt
+
+# Procedurally generated textures/sprites — regenerated on first run,
+# no reason to track them in git.
+raycaster/assets_cache/
+
+# Editor/OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local env
+myenv/
+venv/
+.venv/
+
+# Scratch
+folder_structure.txt
